@@ -7,13 +7,20 @@ title: US Credit Card Fraud Law
 
 # 15 U.S.C. § 1644 - Fraudulent Use of Credit Cards
 
-[Prev §1643](https://www.law.cornell.edu/uscode/text/15/1643) | [Next §1645](https://www.law.cornell.edu/uscode/text/15/1645)
-
 ## (a) Use, attempt or conspiracy to use card
 Whoever knowingly in a transaction affecting interstate or foreign commerce, uses or attempts or conspires to use any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card to obtain money, goods, services, or anything else of value which within any one-year period has a value aggregating **$1,000 or more**; or
 
-[... rest of sections exactly as before ...]
+## (b) Transporting, attempting or conspiring to transport card
+Whoever, with unlawful or fraudulent intent, transports or attempts or conspires to transport in interstate or foreign commerce a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained; or
 
-**shall be fined not more than $10,000 or imprisoned not more than ten years, or both.**
+## (c) Use of interstate commerce to sell or transport card
+Whoever, with unlawful or fraudulent intent, uses any instrumentality of interstate or foreign commerce to sell or transport a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained; or
 
-*Source: [15 U.S.C. § 1644](https://www.law.cornell.edu/uscode/text/15/1644)*
+## (d) Receipt, concealment, etc., of goods obtained by use of card
+Whoever knowingly receives, conceals, uses, or transports money, goods, services, or anything else of value (except tickets for interstate or foreign transportation) which (1) within any one-year period has a value aggregating **$1,000 or more**, (2) has moved in or is part of, or which constitutes interstate or foreign commerce, and (3) has been obtained with a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card; or
+
+## (e) Receipt, concealment, etc., of tickets for interstate or foreign transportation
+Whoever knowingly receives, conceals, uses, sells, or transports in interstate or foreign commerce one or more tickets for interstate or foreign transportation, which (1) within any one-year period have a value aggregating **$500 or more**, and (2) have been purchased or obtained with one or more counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit cards; or
+
+## (f) Furnishing of money, etc., through use of card
+Whoever in a transaction affecting interstate or foreign commerce furnishes money
