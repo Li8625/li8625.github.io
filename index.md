@@ -1,5 +1,5 @@
 ---
-title: US Credit Card Fraud Law
+title: US Credit Card Fraud
 ---
 
 > **⚠️ Please do not commit fraud. It is a federal crime punishable by fines up to $10,000 and up to 10 years in prison.**  
