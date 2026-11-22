@@ -1,4 +1,3 @@
-
 ---
 title: Otter Facts
 permalink: /otter-facts/
