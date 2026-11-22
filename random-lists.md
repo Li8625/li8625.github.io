@@ -1,4 +1,3 @@
-
 ---
 title: Random Lists
 permalink: /random-lists/
